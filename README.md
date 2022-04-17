@@ -1,2 +1,3 @@
-## 2021 Spring, Information Retrieval Lab3
-You need to add some files into the "files" directory under "src", actually the files can be got by the crawler tool developed in Lab1(in another repository).
+## 2021 Spring, Information Retrieval Lab3, Design and implementation of enterprise search system
+Please see the spec doc for more details.
+You need to add some files into the "files" directory under "src" to imitate the data in an enterprise search system, actually the files can be got by the crawler tool developed in Lab1(in another repository).
